@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/leven-rev/static/css/main.2cce8147.chunk.css",
+    "main.js": "/leven-rev/static/js/main.17764755.chunk.js",
+    "main.js.map": "/leven-rev/static/js/main.17764755.chunk.js.map",
+    "runtime~main.js": "/leven-rev/static/js/runtime~main.15768fff.js",
+    "runtime~main.js.map": "/leven-rev/static/js/runtime~main.15768fff.js.map",
+    "static/js/2.b41502e9.chunk.js": "/leven-rev/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/leven-rev/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/leven-rev/index.html",
+    "precache-manifest.15753a05e4b60206f071076377939391.js": "/leven-rev/precache-manifest.15753a05e4b60206f071076377939391.js",
+    "service-worker.js": "/leven-rev/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/leven-rev/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/leven-rev/static/media/logo.5d5d9eef.svg"
+  }
+}
